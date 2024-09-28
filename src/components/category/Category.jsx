@@ -1,5 +1,5 @@
 import React from "react";
-import CategoryCard from "./categoryCard";
+import CategoryCard from "./CategoryCard";
 import { gridCategoryDetails } from "./categoryData";
 import classes from "./category.module.css";
 
