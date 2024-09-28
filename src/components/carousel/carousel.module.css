@@ -1,0 +1,17 @@
+.hero__img {
+  position: relative;
+}
+
+.carousel_box {
+  max-width: 85%;
+  margin: 0 auto;
+}
+
+.hero__img::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 300px;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), #e3e6e6);
+}

@@ -1,0 +1,8 @@
+.wrapper {
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.white__bg {
+  background-color: #fff;
+}
