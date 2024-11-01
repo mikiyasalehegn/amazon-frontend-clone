@@ -72,3 +72,9 @@ a {
 .hide {
   display: none;
 }
+
+@media (max-width: 1600px) {
+  .main__box {
+    margin-top: -17%;
+  }
+}

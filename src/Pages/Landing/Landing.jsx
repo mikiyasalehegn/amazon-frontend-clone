@@ -8,7 +8,7 @@ function Landing() {
     <Layout whiteBg={false}>
       <CarouselEffect />
       <Category />
-      <div style={{ padding: "30vh" }}></div>
+      <div style={{ padding: "30vh 0" }}></div>
     </Layout>
   );
 }
