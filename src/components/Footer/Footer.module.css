@@ -204,3 +204,9 @@ footer {
   font-size: 12px;
   margin-top: 10px;
 }
+
+@media (max-width: 1600px) {
+  footer {
+    display: none;
+  }
+}
